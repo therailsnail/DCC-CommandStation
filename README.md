@@ -1,4 +1,4 @@
-# DCC-CommandStation
+# DCC++ Ex CommandStation
 
 Code repository for DCC++ CommandStation Build project hosted at https://railsnail.uk/dcc-ex-commandstation-diy-build/
 
