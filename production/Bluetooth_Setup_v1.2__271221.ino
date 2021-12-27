@@ -9,7 +9,7 @@ void setup()
     Serial.begin(9600);
     delay(500); 
   
-    Serial.println("Arduino Mega 2560/HC-05 Simple Bluetooth Terminal/DCC++ Setup - 231221");
+    Serial.println("Arduino Mega 2560/HC-05 Simple Bluetooth Terminal/DCC++ Setup - 271221");
     Serial.println("----------------------------------------------------------------------");
     Serial.println(" ");
     Serial.println("IMPORTANT Pre-checks ");
